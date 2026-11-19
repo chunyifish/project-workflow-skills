@@ -1,0 +1,4 @@
+interface:
+  display_name: "專案初始化"
+  short_description: "建立專案說明、工作規範、待辦與進度文件，配置所需的資料夾。"
+  default_prompt: "請使用 $project-initialize 幫我初始化目前的 Codex 專案。"
