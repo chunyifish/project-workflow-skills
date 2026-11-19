@@ -1,5 +1,5 @@
 ---
-name: end-of-session-handoff
+name: project-end
 description: 收工時更新 TODO.md 與 PROGRESS.md，記錄本輪完成事項、重要決策、未完成工作與下次開工建議，並顯示目前 Git 狀態。用於「收工」、「整理進度」、「交接」等請求。
 ---
 

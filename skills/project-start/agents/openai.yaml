@@ -1,4 +1,4 @@
 interface:
   display_name: "開工"
   short_description: "閱讀專案文件並核對目前狀態，整理進度與建議今天的第一件工作。"
-  default_prompt: "請使用 $start-of-session 整理目前專案狀態，建議今天先做的一件事。"
+  default_prompt: "請使用 $project-start 整理目前專案狀態，建議今天先做的一件事。"

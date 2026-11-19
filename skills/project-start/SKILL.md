@@ -1,5 +1,5 @@
 ---
-name: start-of-session
+name: project-start
 description: 開工前閱讀 README.md、AGENTS.md、PROGRESS.md、TODO.md，整理專案已完成、進行中與下一步，建議今天最適合先做的一件事。用於「開工」、「接續專案」、「今天先做什麼」等請求。
 ---
 
